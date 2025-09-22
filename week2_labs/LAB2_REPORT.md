@@ -79,7 +79,7 @@ Solution: Used Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass to all
 
 ## Future Enhancements
 
-= Add database connectivity (SQLite or Firebase) to save user profiles.
+- Add database connectivity (SQLite or Firebase) to save user profiles.
 - Improve UI design with themes and icons.
 - Create a multi-page application using Flet’s routing system.
-= Explore deploying the GUI as a desktop app or web app.
+- Explore deploying the GUI as a desktop app or web app.
